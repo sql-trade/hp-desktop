@@ -5,7 +5,7 @@ this repo contains all information about
 
 1. HP Bios key -->  [F10]
 2. check UEFI (Unified Extensible Firmware Interface)
-3. --> Start-Menu  [Esc]
+3. "Boot" Start-Menu -->  [Esc]
 
 ----
 "bootable" USB-Stick  -->  [www.Rufus.ie](https://rufus.ie/de/)
